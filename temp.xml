@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-19T08:37:44.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="aNdf_IlWddPZRcPZ_n4B" version="13.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-19T08:40:26.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="p7PmGooFrL3-vP5y5j5D" version="13.2.6" type="github">
   <diagram id="0" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aeROafHHwoAme-cBA0rH-13" value="create one new timely job &#39;CheckDCCondition&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aeROafHHwoAme-cBA0rH-13" value="create one new timely job &#39;CheckDCCondition&#39; on jobscheudule table" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="610" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aeROafHHwoAme-cBA0rH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="aeROafHHwoAme-cBA0rH-16" target="aeROafHHwoAme-cBA0rH-4">
